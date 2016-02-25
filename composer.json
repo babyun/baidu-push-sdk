@@ -8,5 +8,8 @@
             "email": "lujian@babyun.cn"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {"BaiduPush": "lib/"}
+    }
 }
