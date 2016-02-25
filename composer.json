@@ -1,0 +1,12 @@
+{
+    "name": "lujian/baidu-push",
+    "description": "Baidu Push Lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tony Lu",
+            "email": "lujian@babyun.cn"
+        }
+    ],
+    "require": {}
+}
